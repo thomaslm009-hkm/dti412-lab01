@@ -25,3 +25,13 @@ Gain hands-on experience in modern application development, backend architecture
 - Technical skills I want to improve: Advanced backend development, API design, cloud architecture
 - Technologies I want to learn: Django, React, Docker, Cloud Platforms
 - Dream Job Position: IT Professional, Software Engineer
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
